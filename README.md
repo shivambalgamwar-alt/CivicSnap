@@ -5,6 +5,16 @@
 
 
 ---
+### 👥 Team: TeamX
+ 
+| Member |
+|---|
+| Shivam |
+| Kshitij |
+| Parag |
+| Rudra |
+ 
+---
 
 ## Table of Contents
 1. [Project Name](#1-project-name)
