@@ -5,7 +5,7 @@
 
 
 ---
-### 👥 Team: TeamX
+### 👥 Team Name: TeamX
  
 | Member |
 |---|
