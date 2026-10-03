@@ -1,7 +1,8 @@
 # 🗑️ CivicSnap
-
+ 
 **Snap a photo of roadside garbage. An open-source AI agent files the complaint, tracks it, and escalates it for you.**
-
+ 
+*Hacktober Fest — Open Source AI Hackathon (Organized by Elevate) · Qualifier Submission · Track 2: Best Use of Gemma 4*
 
 
 ---
